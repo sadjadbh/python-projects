@@ -1,1 +1,1 @@
-python-projects 
+print('welcome to mainpage')
