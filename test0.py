@@ -1,6 +1,0 @@
-print('id=1')
-print('Name: Sadjad')
-print('Age: 29')
-print('Field: CEO')
-print('Checked')
-print('-'*5)
